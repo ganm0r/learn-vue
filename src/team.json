@@ -1,0 +1,21 @@
+{
+  "name": "Justice League",
+  "spots": 5,
+  "members": [
+    {
+      "name": "Clark Kent",
+      "email": "kent@gmail.com",
+      "status": false
+    },
+    {
+      "name": "Barry Allen",
+      "email": "barry@gmail.com",
+      "status": false
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": "bruce@gmail.com",
+      "status": true
+    }
+  ]
+}
