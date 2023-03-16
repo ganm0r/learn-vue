@@ -22,7 +22,7 @@ const showModal = ref(false);
       <template #header>
         <div class="flex justify-between items-center">
           <h1>Modal Title</h1>
-          <button @click="showModal = false">X</button>
+          <button class="px-2 bg-slate-800 rounded-full text-white" @click="showModal = false">X</button>
         </div>
       </template>
       <template #body>
